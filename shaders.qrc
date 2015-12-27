@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sphere.fsh</file>
+        <file>sphere.vsh</file>
+    </qresource>
+</RCC>
